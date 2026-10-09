@@ -108,8 +108,7 @@ Register-Dokumentation für Xtherma Wärmepumpen.
 
 | Register | Nummer | Description | Value Range | Unit | Wertetyp / Parsing |
 |----------|--------|------------|-------------|------|--------------------|
-| 70 | - | Aktiv | | | u16 (bool: 0=Aus, 1=Ein) |
-| 71 | - | Überschuss | 0..100000 | W | u16 |
+| 71 | - | Überschuss | 0..65535 | W | u16 |
 
 ---
 
