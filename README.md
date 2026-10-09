@@ -104,7 +104,7 @@ Register-Dokumentation für Xtherma Wärmepumpen.
 
 ---
 
-## ⚡ Überschuss
+## ⚡ Überschuss in der PV-Überschussregelung
 
 | Register | Nummer | Description | Value Range | Unit | Wertetyp / Parsing |
 |----------|--------|------------|-------------|------|--------------------|
